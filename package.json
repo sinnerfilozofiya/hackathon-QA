@@ -21,6 +21,7 @@
   },
   "name": "shadcn-vue-accordiondemo",
   "scripts": {
-    "start": "shadcn-vue add accordion  -y && vite"
+    "dev": "shadcn-vue add accordion  -y && vite --host",
+    "build": "shadcn-vue add accordion  -y && vite build"
   }
 }
