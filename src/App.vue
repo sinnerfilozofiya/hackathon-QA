@@ -8,7 +8,7 @@ import accordionItems from './Q_A_items.json'
 <template>
   <div class="full-page-container">
     <div class="faq-section">
-      <h1>SIK SORULAN SORULAR</h1>
+      <h1>SIKÇA SORULAN SORULAR</h1>
     </div>
     <div class="background-blur"></div>
     <Accordion type="single" class="w-full" collapsible >
