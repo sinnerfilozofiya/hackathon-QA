@@ -11,7 +11,7 @@ import accordionItems from './Q_A_items.json'
       <h1>SIK SORULAN SORULAR</h1>
     </div>
     <div class="background-blur"></div>
-    <Accordion type="single" class="w-full" collapsible :default-value="'item-1'">
+    <Accordion type="single" class="w-full" collapsible >
       <AccordionItem v-for="item in accordionItems" :key="item.value" :value="item.value">
         <AccordionTrigger>{{ item.title }}</AccordionTrigger>
         <AccordionContent>
