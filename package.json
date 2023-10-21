@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@radix-ui/colors": "latest",
+    "class-variance-authority": "latest",
+    "clsx": "latest",
+    "lucide-vue-next": "latest",
+    "radix-vue": "^0.4.1",
+    "shadcn-vue": "latest",
+    "tailwind-merge": "latest",
+    "tailwindcss-animate": "latest",
+    "typescript": "latest",
+    "vue": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "latest",
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "vite": "latest",
+    "vue-tsc": "latest"
+  },
+  "name": "shadcn-vue-accordiondemo",
+  "scripts": {
+    "start": "shadcn-vue add accordion  -y && vite"
+  }
+}
