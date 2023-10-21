@@ -13,6 +13,31 @@
       "value": "item-3",
       "title": "Hackthon’a nasıl katılabilirim?",
       "answer": "Web sitesindeki ‘Hackathon’a Başvur’ butonunu tıklayarak formu doldurup katılabilirsiniz. Başvurular 31 Ekim saat 23:59’a kadar devam edecektir. Başvurusu alınan tüm katılımcılara onay e-posta gönderilecektir. Başvurular düzenleme komitesi tarafından ön elemeye tabi tutulacak ve hackathon’a seçilen ve seçilemeyen katılımcılar yine e-posta ile bilgilendirilecektir."
+    },
+    {
+      "value": "item-4",
+      "title": "Takımlar kaç kişiden oluşmalıdır?",
+      "answer": "Takımlar en az 2 en çok 3 kişiden oluşmalıdır."
+    },
+    {
+      "value": "item-5",
+      "title": "Hackathon’a katılım ücretli mi?",
+      "answer": "Katılım ücretsizdir."
+    },
+    {
+      "value": "item-6",
+      "title": "Hackathon’da dağıtılan ödüller neler?",
+      "answer": "Birinci takımın her bir üyesine Apple dizüstü bilgisayar, ikinci takımın her bir üyesine Apple tablet ve üçüncü takımın her bir üyesine Apple kablosuz kulaklık verilecektir."
+    },
+    {
+      "value": "item-7",
+      "title": "Hackathon nerede gerçekleştirilecek?",
+      "answer": "Hackathon 11-12 Kasım tarihlerinde Ankara Üniversitesi Tandoğan Kampüsü Fen Fakültesi Büyük Kimya Amfisi ve fuaye alanında gerçekleştirilecektir."
+    },
+    {
+      "value": "item-8",
+      "title": "Merak ettiğim sorular için kiminle iletişime geçebilirim?",
+      "answer": "Merak ettiğiniz sorularınız için ​​chainacademy.info@gmail.com e-posta adresine yazabilirsiniz."
     }
   ]
   
