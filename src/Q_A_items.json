@@ -1,43 +1,58 @@
 [
     {
       "value": "item-1",
-      "title": "Hackathon’un amacı nedir?",
-      "answer": "Finansal inovasyona ilgi duyan gençleri cesaretlendirmek ve Cumhuriyetin 100. yılında Türkiye'nin finansal özgürlük mücadelesine destek olacak projeler ortaya koymalarını sağlamaktır."
+      "title": "Code of Century Hackathon nedir?",
+      "answer": "Code of Century Hackathon, Cumhuriyetin 100. yılında Türkiye'nin finansal özgürlük mücadelesine katkı sağlamak amacıyla düzenlenen yaratıcı bir etkinliktir. Katılımcılar, finans sektöründeki sorunlara çözüm getiren ve geleceğin finans dünyasını şekillendirebilecek projeler geliştirmek için yarışacaklar."
     },
     {
       "value": "item-2",
-      "title": "Hackathon’a kimler katılabilir?",
-      "answer": "Etkinliğe blokzincir ve yapay zeka teknolojilerine ilgi duyan herkes katılabilir."
+      "title": "Code of Century Hackathon kimler için?",
+      "answer": "Code of Century Hackathon, yapay zeka veya blokzincir teknolojilerine merak duyan, bu teknolojileri finans alanında kullanmak isteyen herkesin katılması için açıktır. Özellikle finansal özgürlüğü artırmaya yönelik projeler geliştirmek isteyen herkesi bekliyoruz."
     },
     {
       "value": "item-3",
-      "title": "Hackthon’a nasıl katılabilirim?",
-      "answer": "Web sitesindeki ‘Hackathon’a Başvur’ butonunu tıklayarak formu doldurup katılabilirsiniz. Başvurular 31 Ekim saat 23:59’a kadar devam edecektir. Başvurusu alınan tüm katılımcılara onay e-postası gönderilecektir. Başvurular düzenleme komitesi tarafından ön elemeye tabi tutulacak ve hackathon’a seçilen ve seçilemeyen katılımcılar yine e-posta ile bilgilendirilecektir."
+      "title": "Katılmak için bir ekip kurmam gerekiyor mu?",
+      "answer": "Evet, en az 2 en çok 3 kişiden oluşan ekip kurmanızı bekliyoruz. Ekip kurarak farklı yeteneklere sahip kişilerin bir araya gelerek daha kapsamlı projeler ortaya koyacağını düşünüyoruz."
     },
     {
       "value": "item-4",
-      "title": "Takımlar kaç kişiden oluşmalıdır?",
-      "answer": "Takımlar en az 2 en çok 3 kişiden oluşmalıdır."
+      "title": "Katılım ücreti var mı?",
+      "answer": "Hayır, Code of Century Hackathon tamamen ücretsizdir. Katılmak için herhangi bir ücret ödemeniz gerekmez."
     },
     {
       "value": "item-5",
-      "title": "Hackathon’a katılım ücretli mi?",
-      "answer": "Katılım ücretsizdir."
+      "title": "Hangi teknolojiler kullanılabilir?",
+      "answer": "Bu hackathon, finansal özgürlükle ilgili projeler geliştirmek için her türlü teknolojiyi kullanmanıza olanak tanır. Python, Yapay zeka, Blokzincir, Solidity, Hyperledger ve daha birçok teknolojiyi kullanabilirsiniz."
     },
     {
       "value": "item-6",
-      "title": "Hackathon’da dağıtılan ödüller neler?",
-      "answer": "Birinci takımın her bir üyesine Apple dizüstü bilgisayar, ikinci takımın her bir üyesine Apple tablet ve üçüncü takımın her bir üyesine Apple kablosuz kulaklık verilecektir."
+      "title": "Kazananlara ödül verilecek mi?",
+      "answer": "Evet, Code of Century Hackathon'unda birinci olan ekip üyelerine Apple Dizüstü Bilgisayar, ikinci olan ekip üyelerine Apple tablet ve üçüncü olan ekip üyelerine Apple kablosuz kulaklık verilecektir."
     },
     {
       "value": "item-7",
-      "title": "Hackathon nerede gerçekleştirilecek?",
-      "answer": "Hackathon 11-12 Kasım tarihlerinde Ankara Üniversitesi Tandoğan Kampüsü Fen Fakültesi Büyük Kimya Amfisi ve fuaye alanında gerçekleştirilecektir."
+      "title": "Nasıl kaydolabilirim?",
+      "answer": "Kaydolmak için web sitemizdeki kayıt formunu doldurmanız gerekmektedir. Başvurular 31 Ekim saat 23:59’a kadar devam edecektir. Başvurusu alınan tüm katılımcılara onay e-postası gönderilecektir. Başvurular düzenleme komitesi tarafından ön elemeye tabi tutulacak ve hackathon’a seçilen ve seçilemeyen katılımcılar yine e-posta ile bilgilendirilecektir."
     },
     {
       "value": "item-8",
-      "title": "Merak ettiğim sorular için kiminle iletişime geçebilirim?",
-      "answer": "Merak ettiğiniz sorularınız için ​​chainacademy.info@gmail.com e-posta adresine yazabilirsiniz."
+      "title": "Hackathon süresince neler bekleniyor?",
+      "answer": "Katılımcılardan belirli bir süre boyunca projelerini geliştirmeleri ve finansal özgürlükle ilgili sorunlara çözümler üretmeleri beklenmektedir. Etkinlik süresince mentorlarımız ve jürilerimiz katılımcılara rehberlik edecekler."
+    },
+    {
+      "value": "item-9",
+      "title": "Hackathon nerede gerçekleşecek?",
+      "answer": "11-12 Kasım tarihlerinde Ankara Üniversitesi Tandoğan Kampüsü Fen Fakültesi Büyük Kimya Amfisi ve fuaye alanında gerçekleştirilecektir. "
+    },
+    {
+      "value": "item-10",
+      "title": "Hangi kriterlere göre projeler değerlendirilecek?",
+      "answer": "Projeler, orijinallik, teknik karmaşıklık, finansal özgürlüğe olan katkı ve sürdürülebilirlik gibi kriterlere göre değerlendirilecektir. Jüri üyelerimiz projeleri bu kriterlere göre puanlayacaklar."
+    },
+    {
+      "value": "item-11",
+      "title": "Başka sorularım var, nereye başvurabilirim?",
+      "answer": "Merak ettiğiniz sorularınız için ​​chainacademy.info@gmail.com e-posta adresine yazabilirsiniz. Size yardımcı olmaktan mutluluk duyarız."
     }
   ]
   
